@@ -9,8 +9,6 @@ Este projeto é um site pessoal desenvolvido como parte da disciplina **Introdu�
 
 ## ✨ **Funcionalidades**
 ### - **Seção "Sobre Mim"** com informações pessoais e acadêmicas
-### - **Lista de Projetos** desenvolvidos durante o curso
-### - **Página de Contato** com formulário para envio de mensagens
 ### - **Design responsivo** para melhor adaptação em diferentes dispositivos
 
 ## 🚀 **No ar**
